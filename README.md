@@ -8,3 +8,10 @@
 after saying yes
 
 *App will open on port 3001
+
+4)
+UserName:admin
+
+Password:admin
+
+
