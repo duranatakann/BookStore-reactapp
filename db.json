@@ -1,0 +1,126 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "bookName": "Hipnoz",
+      "AuthorName": "Edgar Allan",
+      "unitPrice": "24",
+      "unitsInStock": "54"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "bookName": "Şeytan Ayrıntıda Gizlidir",
+      "AuthorName": "Ahmet Ümit",
+      "unitPrice": "22",
+      "unitsInStock": "18"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "bookName": "Kuzgun",
+      "AuthorName": "Edgar Allan",
+      "unitPrice": "222",
+      "unitsInStock": 53
+    },
+    {
+      "bookName": "Bir Kudüs Öyküsü",
+      "categoryId": 1,
+      "unitPrice": "24",
+      "AuthorName": "Edgar Allan",
+      "unitsInStock": "54",
+      "id": 5
+    },
+    {
+      "bookName": "Harry Potter ve Ölüm Yadigarları",
+      "categoryId": 2,
+      "AuthorName": " J. K. Rowling",
+      "unitPrice": "12",
+      "unitsInStock": "12",
+      "id": 6
+    },
+    {
+      "bookName": "Yüzüklerin Efendisi",
+      "AuthorName": " J.R.R. Tolkien",
+      "unitPrice": "12",
+      "unitsInStock": "14",
+      "id": 7,
+      "categoryId": 2
+    },
+    {
+      "bookName": "Ataların Hikayesi",
+      "categoryId": 3,
+      "unitPrice": "142",
+      "AuthorName": "Richard Dawkings",
+      "id": 8,
+      "unitsInStock": "12"
+    },
+    {
+      "bookName": "Ilber Ortaylı",
+      "categoryId": 5,
+      "unitPrice": "324",
+      "AuthorName": "Ilber Ortaylı",
+      "unitsInStock": "12",
+      "id": 9
+    },
+    {
+      "bookName": "Zümrüt Ayna",
+      "categoryId": 3,
+      "unitPrice": "140",
+      "AuthorName": "Celal Şengor",
+      "unitsInStock": "12",
+      "id": 10
+    },
+    {
+      "bookName": "Vegan Yemek Tarifleri",
+      "AuthorName": "Alexandra Jamieson",
+      "categoryId": 7,
+      "unitPrice": "143",
+      "unitsInStock": "12",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Korku",
+      "seoUrl": "Korku"
+    },
+    {
+      "id": 2,
+      "categoryName": "Fantastik",
+      "seoUrl": "Fantastik"
+    },
+    {
+      "id": 3,
+      "categoryName": "Bilim",
+      "seoUrl": "Bilim"
+    },
+    {
+      "id": 4,
+      "categoryName": "Ansiklopedi",
+      "seoUrl": "Ansiklopedi"
+    },
+    {
+      "id": 5,
+      "categoryName": "Tarih",
+      "seoUrl": "Tarih"
+    },
+    {
+      "id": 6,
+      "categoryName": "Felsefe",
+      "seoUrl": "Felsefe"
+    },
+    {
+      "id": 7,
+      "categoryName": "Yemek",
+      "seoUrl": "Yemek"
+    },
+    {
+      "id": 8,
+      "categoryName": "Polisiye",
+      "seoUrl": "Polisiye"
+    }
+  ]
+}

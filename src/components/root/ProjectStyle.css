@@ -1,0 +1,42 @@
+.Maintitle {
+  color: white;
+  border: 1px solid;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-family: cursive;
+  box-shadow: 0 0 13px var(--gray-dark);
+}
+a {
+  color: white !important;
+}
+a :hover {
+  text-decoration: none !important;
+}
+td a {
+  color: black !important;
+}
+.nav-item {
+  border: 1px solid white !important;
+  border-radius: 17px;
+}
+.titleText {
+  color: white !important;
+}
+.textAddBook {
+  font-weight: bolder;
+}
+.navbar {
+  background-color: #343a408c !important;
+}
+.active {
+  background-color: #6c757d !important;
+  border: 2px solid white !important;
+  color: white;
+  font-weight: bolder;
+}
+ul li:hover {
+  cursor: pointer;
+}
+.ajs-message {
+  color:white !important
+}
