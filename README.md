@@ -9,7 +9,8 @@ after saying yes
 
 *App will open on port 3001
 
-4)
+4)Authentication mock
+
 UserName:admin
 
 Password:admin
