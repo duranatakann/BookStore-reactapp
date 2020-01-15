@@ -16,3 +16,9 @@ UserName:admin
 Password:admin
 
 
+The components using the hook structure are as follows:
+*Login
+*AddorUpdateBook
+*BookDetail
+
+Additionally tool boxes are made with hook structure
