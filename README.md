@@ -5,6 +5,7 @@
  *jsonapi will open on port 3000
  
 3)npm  start
+
 after saying yes
 
 *App will open on port 3001
